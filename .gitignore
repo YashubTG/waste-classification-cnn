@@ -1,0 +1,15 @@
+# Dataset
+dataset-resized/
+
+# Uploaded test images
+flask_app/uploads/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Local environment files
+.env
